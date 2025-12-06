@@ -15,6 +15,12 @@
 - **C**
 - **VB.NET**
 
+ ### 🔹 Databases & Data Tools
+- **SQL (Structured Query Language)**
+- **Database Design & Modeling**
+- Basic knowledge of **MySQL / SQL Server**
+- Understanding of **CRUD operations**, **joins**, and **relations**
+
 ### 🔹 Web Development
 - **HTML**
 - **CSS**
@@ -26,22 +32,15 @@
 
 ---
 
-## ⚙️ Tech Stack (Badges)
+## ⚙️ Tech Stack 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,python,c,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,html,css,git,github,mysql" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Touaiti-Ahmed-Yassine&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Touaiti-Ahmed-Yassine&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
 
 ## 📚 What I'm working on
 - Creating small web projects  
@@ -53,7 +52,9 @@
 
 ## 📫 Connect with Me
 - Instagram: **@tharealyssinee**  
-- Facebook: **@tharealyssinee**
+- Facebook: **yassine touaiti**
+- E-mail : touaitiahmedyassine@gmail.com
+- E-mail institutionnel : ahmedyassine.touaiti@isgb.ucar.tn
 
 ---
 
