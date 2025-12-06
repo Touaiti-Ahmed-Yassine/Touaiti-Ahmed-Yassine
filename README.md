@@ -51,7 +51,7 @@
 ---
 
 ## 📫 Connect with Me
-- Instagram: **@tharealyssinee**  
+- Instagram: **@tharealyvssineee**  
 - Facebook: **yassine touaiti**
 - E-mail : touaitiahmedyassine@gmail.com
 - E-mail institutionnel : ahmedyassine.touaiti@isgb.ucar.tn
