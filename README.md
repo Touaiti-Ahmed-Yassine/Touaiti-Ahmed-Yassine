@@ -1,62 +1,59 @@
-# 👋 Hi, I'm Yassine
+# Hi, I'm Ahmed Yassine Touaiti 👋
 
-💻 **Business Computing Student**  
-🚀 **Future Engineer**  
-🌐 Learning **Web Development**, **Business Intelligence**, and improving my programming skills every day.
+### Business Computing Student | Aspiring Software & BI Engineer
 
----
+Welcome to my GitHub profile! I'm a Business Computing student passionate about software engineering, web development, mobile applications, and Business Intelligence.
 
-## 🛠️ Skills & Technologies
-
-### 🔹 Languages
-- **Java**
-- **JavaScript**
-- **Python**
-- **C**
-- **VB.NET**
-
- ### 🔹 Databases & Data Tools
-- **SQL (Structured Query Language)**
-- **Database Design & Modeling**
-- Basic knowledge of **MySQL / SQL Server**
-- Understanding of **CRUD operations**, **joins**, and **relations**
-
-### 🔹 Web Development
-- **HTML**
-- **CSS**
-
-### 🔹 Currently Learning
-- Web Development  
-- Business Intelligence (BI)  
-- Building real-world projects to grow my skills  
+I'm continuously developing my technical skills through academic projects, personal experiments, and practical learning.
 
 ---
 
-## ⚙️ Tech Stack 
+## 🚀 Areas of Interest
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,python,c,html,css,git,github,mysql" />
-</p>
+- 📊 Business Intelligence & Data Analytics
+- 🌐 Web Development
+- 📱 Mobile Application Development
+- 💻 Software Engineering
+- 🗄️ Database Management
+
+## 🛠️ Technologies
+
+**Programming Languages**
+
+- Java
+- HTML
+- CSS
+- JavaScript
+- React 
+- Visual Basic .NET
+
+**Currently Exploring**
+
+- Python
+- SQL
+- Business Intelligence tools
+- Flutter
+
+## 📂 Featured Projects
+
+Here are some of the projects I'm working on:
+
+- **Retail BI:** Data analysis and Business Intelligence.
+- **Web Development:** Personal and academic web development projects.
+- **Java Projects:** Academic programming exercises and applications.
+
+## 🎯 Current Goals
+
+- Improve my software development skills.
+- Build practical Business Intelligence solutions.
+- Develop web and mobile applications.
+- Gain professional experience through a PFE internship.
+
+## 📫 Connect With Me
+
+- GitHub: [@Touaiti-Ahmed-Yassine](https://github.com/Touaiti-Ahmed-Yassine)
+- LinkedIn: [ ahmedyassine touaiti | LinkedIn](https://www.linkedin.com/in/ahmedyassine-touaiti-b4332242b/)
 
 ---
 
-
-
-## 📚 What I'm working on
-- Creating small web projects  
-- Improving my Java & Python skills  
-- Learning BI fundamentals  
-- Preparing myself for an engineering career  
-
----
-
-## 📫 Connect with Me
-- Instagram: **@tharealyvssineee**  
-- Facebook: **yassine touaiti**
-- E-mail : touaitiahmedyassine@gmail.com
-- E-mail institutionnel : ahmedyassine.touaiti@isgb.ucar.tn
-
----
-
-⭐ *Thanks for visiting my profile! Always learning, always improving.*
-
+*Always learning, building, and improving.* 🚀
